@@ -6,7 +6,8 @@
 
   <groupId>testgrp</groupId>
   <artifactId>test-app</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>devops.67</version>
+  <packaging>jar</packaging>
 
   <name>test-app</name>
   <!-- FIXME change it to the project's website -->
